@@ -1,0 +1,191 @@
+C:\Users\Carlos Garcia\code\Test4Messag\bin\Debug\net10.0\code.exe
+C:\Users\Carlos Garcia\code\Test4Messag\bin\Debug\net10.0\code.deps.json
+C:\Users\Carlos Garcia\code\Test4Messag\bin\Debug\net10.0\code.runtimeconfig.json
+C:\Users\Carlos Garcia\code\Test4Messag\bin\Debug\net10.0\code.dll
+C:\Users\Carlos Garcia\code\Test4Messag\bin\Debug\net10.0\code.pdb
+C:\Users\Carlos Garcia\code\Test4Messag\obj\Debug\net10.0\code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Garcia\code\Test4Messag\obj\Debug\net10.0\code.AssemblyInfoInputs.cache
+C:\Users\Carlos Garcia\code\Test4Messag\obj\Debug\net10.0\code.AssemblyInfo.cs
+C:\Users\Carlos Garcia\code\Test4Messag\obj\Debug\net10.0\code.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Garcia\code\Test4Messag\obj\Debug\net10.0\code.dll
+C:\Users\Carlos Garcia\code\Test4Messag\obj\Debug\net10.0\refint\code.dll
+C:\Users\Carlos Garcia\code\Test4Messag\obj\Debug\net10.0\code.pdb
+C:\Users\Carlos Garcia\code\Test4Messag\obj\Debug\net10.0\code.genruntimeconfig.cache
+C:\Users\Carlos Garcia\code\Test4Messag\obj\Debug\net10.0\ref\code.dll
+C:\Users\Carlos Garcia\code\Test5Matriz\bin\Debug\net10.0\code.exe
+C:\Users\Carlos Garcia\code\Test5Matriz\bin\Debug\net10.0\code.deps.json
+C:\Users\Carlos Garcia\code\Test5Matriz\bin\Debug\net10.0\code.runtimeconfig.json
+C:\Users\Carlos Garcia\code\Test5Matriz\bin\Debug\net10.0\code.dll
+C:\Users\Carlos Garcia\code\Test5Matriz\bin\Debug\net10.0\code.pdb
+C:\Users\Carlos Garcia\code\Test5Matriz\obj\Debug\net10.0\code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Garcia\code\Test5Matriz\obj\Debug\net10.0\code.AssemblyInfoInputs.cache
+C:\Users\Carlos Garcia\code\Test5Matriz\obj\Debug\net10.0\code.AssemblyInfo.cs
+C:\Users\Carlos Garcia\code\Test5Matriz\obj\Debug\net10.0\code.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Garcia\code\Test5Matriz\obj\Debug\net10.0\code.dll
+C:\Users\Carlos Garcia\code\Test5Matriz\obj\Debug\net10.0\refint\code.dll
+C:\Users\Carlos Garcia\code\Test5Matriz\obj\Debug\net10.0\code.pdb
+C:\Users\Carlos Garcia\code\Test5Matriz\obj\Debug\net10.0\code.genruntimeconfig.cache
+C:\Users\Carlos Garcia\code\Test5Matriz\obj\Debug\net10.0\ref\code.dll
+C:\Users\Carlos Garcia\code\Test6FraudCheck\bin\Debug\net10.0\code.exe
+C:\Users\Carlos Garcia\code\Test6FraudCheck\bin\Debug\net10.0\code.deps.json
+C:\Users\Carlos Garcia\code\Test6FraudCheck\bin\Debug\net10.0\code.runtimeconfig.json
+C:\Users\Carlos Garcia\code\Test6FraudCheck\bin\Debug\net10.0\code.dll
+C:\Users\Carlos Garcia\code\Test6FraudCheck\bin\Debug\net10.0\code.pdb
+C:\Users\Carlos Garcia\code\Test6FraudCheck\obj\Debug\net10.0\code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Garcia\code\Test6FraudCheck\obj\Debug\net10.0\code.AssemblyInfoInputs.cache
+C:\Users\Carlos Garcia\code\Test6FraudCheck\obj\Debug\net10.0\code.AssemblyInfo.cs
+C:\Users\Carlos Garcia\code\Test6FraudCheck\obj\Debug\net10.0\code.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Garcia\code\Test6FraudCheck\obj\Debug\net10.0\code.dll
+C:\Users\Carlos Garcia\code\Test6FraudCheck\obj\Debug\net10.0\refint\code.dll
+C:\Users\Carlos Garcia\code\Test6FraudCheck\obj\Debug\net10.0\code.pdb
+C:\Users\Carlos Garcia\code\Test6FraudCheck\obj\Debug\net10.0\code.genruntimeconfig.cache
+C:\Users\Carlos Garcia\code\Test6FraudCheck\obj\Debug\net10.0\ref\code.dll
+C:\Users\Carlos Garcia\code\src\Test6FraudCheck\bin\Debug\net10.0\code.exe
+C:\Users\Carlos Garcia\code\src\Test6FraudCheck\bin\Debug\net10.0\code.deps.json
+C:\Users\Carlos Garcia\code\src\Test6FraudCheck\bin\Debug\net10.0\code.runtimeconfig.json
+C:\Users\Carlos Garcia\code\src\Test6FraudCheck\bin\Debug\net10.0\code.dll
+C:\Users\Carlos Garcia\code\src\Test6FraudCheck\bin\Debug\net10.0\code.pdb
+C:\Users\Carlos Garcia\code\src\Test6FraudCheck\obj\Debug\net10.0\code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Garcia\code\src\Test6FraudCheck\obj\Debug\net10.0\code.AssemblyInfoInputs.cache
+C:\Users\Carlos Garcia\code\src\Test6FraudCheck\obj\Debug\net10.0\code.AssemblyInfo.cs
+C:\Users\Carlos Garcia\code\src\Test6FraudCheck\obj\Debug\net10.0\code.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Garcia\code\src\Test6FraudCheck\obj\Debug\net10.0\code.dll
+C:\Users\Carlos Garcia\code\src\Test6FraudCheck\obj\Debug\net10.0\refint\code.dll
+C:\Users\Carlos Garcia\code\src\Test6FraudCheck\obj\Debug\net10.0\code.pdb
+C:\Users\Carlos Garcia\code\src\Test6FraudCheck\obj\Debug\net10.0\code.genruntimeconfig.cache
+C:\Users\Carlos Garcia\code\src\Test6FraudCheck\obj\Debug\net10.0\ref\code.dll
+C:\Users\Carlos Garcia\code\src\Test7Variables\bin\Debug\net10.0\code.exe
+C:\Users\Carlos Garcia\code\src\Test7Variables\bin\Debug\net10.0\code.deps.json
+C:\Users\Carlos Garcia\code\src\Test7Variables\bin\Debug\net10.0\code.runtimeconfig.json
+C:\Users\Carlos Garcia\code\src\Test7Variables\bin\Debug\net10.0\code.dll
+C:\Users\Carlos Garcia\code\src\Test7Variables\bin\Debug\net10.0\code.pdb
+C:\Users\Carlos Garcia\code\src\Test7Variables\obj\Debug\net10.0\code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Garcia\code\src\Test7Variables\obj\Debug\net10.0\code.AssemblyInfoInputs.cache
+C:\Users\Carlos Garcia\code\src\Test7Variables\obj\Debug\net10.0\code.AssemblyInfo.cs
+C:\Users\Carlos Garcia\code\src\Test7Variables\obj\Debug\net10.0\code.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Garcia\code\src\Test7Variables\obj\Debug\net10.0\code.sourcelink.json
+C:\Users\Carlos Garcia\code\src\Test7Variables\obj\Debug\net10.0\code.dll
+C:\Users\Carlos Garcia\code\src\Test7Variables\obj\Debug\net10.0\refint\code.dll
+C:\Users\Carlos Garcia\code\src\Test7Variables\obj\Debug\net10.0\code.pdb
+C:\Users\Carlos Garcia\code\src\Test7Variables\obj\Debug\net10.0\code.genruntimeconfig.cache
+C:\Users\Carlos Garcia\code\src\Test7Variables\obj\Debug\net10.0\ref\code.dll
+C:\Users\Carlos Garcia\code\src\Test8Legibility\bin\Debug\net10.0\code.exe
+C:\Users\Carlos Garcia\code\src\Test8Legibility\bin\Debug\net10.0\code.deps.json
+C:\Users\Carlos Garcia\code\src\Test8Legibility\bin\Debug\net10.0\code.runtimeconfig.json
+C:\Users\Carlos Garcia\code\src\Test8Legibility\bin\Debug\net10.0\code.dll
+C:\Users\Carlos Garcia\code\src\Test8Legibility\bin\Debug\net10.0\code.pdb
+C:\Users\Carlos Garcia\code\src\Test8Legibility\obj\Debug\net10.0\code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Garcia\code\src\Test8Legibility\obj\Debug\net10.0\code.AssemblyInfoInputs.cache
+C:\Users\Carlos Garcia\code\src\Test8Legibility\obj\Debug\net10.0\code.AssemblyInfo.cs
+C:\Users\Carlos Garcia\code\src\Test8Legibility\obj\Debug\net10.0\code.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Garcia\code\src\Test8Legibility\obj\Debug\net10.0\code.sourcelink.json
+C:\Users\Carlos Garcia\code\src\Test8Legibility\obj\Debug\net10.0\code.dll
+C:\Users\Carlos Garcia\code\src\Test8Legibility\obj\Debug\net10.0\refint\code.dll
+C:\Users\Carlos Garcia\code\src\Test8Legibility\obj\Debug\net10.0\code.pdb
+C:\Users\Carlos Garcia\code\src\Test8Legibility\obj\Debug\net10.0\code.genruntimeconfig.cache
+C:\Users\Carlos Garcia\code\src\Test8Legibility\obj\Debug\net10.0\ref\code.dll
+C:\MAMP\htdocs\code\src\Test11SwitchCase\bin\Debug\net10.0\code.exe
+C:\MAMP\htdocs\code\src\Test11SwitchCase\bin\Debug\net10.0\code.deps.json
+C:\MAMP\htdocs\code\src\Test11SwitchCase\bin\Debug\net10.0\code.runtimeconfig.json
+C:\MAMP\htdocs\code\src\Test11SwitchCase\bin\Debug\net10.0\code.dll
+C:\MAMP\htdocs\code\src\Test11SwitchCase\bin\Debug\net10.0\code.pdb
+C:\MAMP\htdocs\code\src\Test11SwitchCase\obj\Debug\net10.0\code.GeneratedMSBuildEditorConfig.editorconfig
+C:\MAMP\htdocs\code\src\Test11SwitchCase\obj\Debug\net10.0\code.AssemblyInfoInputs.cache
+C:\MAMP\htdocs\code\src\Test11SwitchCase\obj\Debug\net10.0\code.AssemblyInfo.cs
+C:\MAMP\htdocs\code\src\Test11SwitchCase\obj\Debug\net10.0\code.csproj.CoreCompileInputs.cache
+C:\MAMP\htdocs\code\src\Test11SwitchCase\obj\Debug\net10.0\code.sourcelink.json
+C:\MAMP\htdocs\code\src\Test11SwitchCase\obj\Debug\net10.0\code.dll
+C:\MAMP\htdocs\code\src\Test11SwitchCase\obj\Debug\net10.0\refint\code.dll
+C:\MAMP\htdocs\code\src\Test11SwitchCase\obj\Debug\net10.0\code.pdb
+C:\MAMP\htdocs\code\src\Test11SwitchCase\obj\Debug\net10.0\code.genruntimeconfig.cache
+C:\MAMP\htdocs\code\src\Test11SwitchCase\obj\Debug\net10.0\ref\code.dll
+C:\MAMP\htdocs\code\src\Test12ForLoop\bin\Debug\net10.0\code.exe
+C:\MAMP\htdocs\code\src\Test12ForLoop\bin\Debug\net10.0\code.deps.json
+C:\MAMP\htdocs\code\src\Test12ForLoop\bin\Debug\net10.0\code.runtimeconfig.json
+C:\MAMP\htdocs\code\src\Test12ForLoop\bin\Debug\net10.0\code.dll
+C:\MAMP\htdocs\code\src\Test12ForLoop\bin\Debug\net10.0\code.pdb
+C:\MAMP\htdocs\code\src\Test12ForLoop\obj\Debug\net10.0\code.GeneratedMSBuildEditorConfig.editorconfig
+C:\MAMP\htdocs\code\src\Test12ForLoop\obj\Debug\net10.0\code.AssemblyInfoInputs.cache
+C:\MAMP\htdocs\code\src\Test12ForLoop\obj\Debug\net10.0\code.AssemblyInfo.cs
+C:\MAMP\htdocs\code\src\Test12ForLoop\obj\Debug\net10.0\code.csproj.CoreCompileInputs.cache
+C:\MAMP\htdocs\code\src\Test12ForLoop\obj\Debug\net10.0\code.sourcelink.json
+C:\MAMP\htdocs\code\src\Test12ForLoop\obj\Debug\net10.0\code.dll
+C:\MAMP\htdocs\code\src\Test12ForLoop\obj\Debug\net10.0\refint\code.dll
+C:\MAMP\htdocs\code\src\Test12ForLoop\obj\Debug\net10.0\code.pdb
+C:\MAMP\htdocs\code\src\Test12ForLoop\obj\Debug\net10.0\code.genruntimeconfig.cache
+C:\MAMP\htdocs\code\src\Test12ForLoop\obj\Debug\net10.0\ref\code.dll
+C:\MAMP\htdocs\code\src\Test13FizzBuzz\bin\Debug\net10.0\code.exe
+C:\MAMP\htdocs\code\src\Test13FizzBuzz\bin\Debug\net10.0\code.deps.json
+C:\MAMP\htdocs\code\src\Test13FizzBuzz\bin\Debug\net10.0\code.runtimeconfig.json
+C:\MAMP\htdocs\code\src\Test13FizzBuzz\bin\Debug\net10.0\code.dll
+C:\MAMP\htdocs\code\src\Test13FizzBuzz\bin\Debug\net10.0\code.pdb
+C:\MAMP\htdocs\code\src\Test13FizzBuzz\obj\Debug\net10.0\code.GeneratedMSBuildEditorConfig.editorconfig
+C:\MAMP\htdocs\code\src\Test13FizzBuzz\obj\Debug\net10.0\code.AssemblyInfoInputs.cache
+C:\MAMP\htdocs\code\src\Test13FizzBuzz\obj\Debug\net10.0\code.AssemblyInfo.cs
+C:\MAMP\htdocs\code\src\Test13FizzBuzz\obj\Debug\net10.0\code.csproj.CoreCompileInputs.cache
+C:\MAMP\htdocs\code\src\Test13FizzBuzz\obj\Debug\net10.0\code.sourcelink.json
+C:\MAMP\htdocs\code\src\Test13FizzBuzz\obj\Debug\net10.0\code.dll
+C:\MAMP\htdocs\code\src\Test13FizzBuzz\obj\Debug\net10.0\refint\code.dll
+C:\MAMP\htdocs\code\src\Test13FizzBuzz\obj\Debug\net10.0\code.pdb
+C:\MAMP\htdocs\code\src\Test13FizzBuzz\obj\Debug\net10.0\code.genruntimeconfig.cache
+C:\MAMP\htdocs\code\src\Test13FizzBuzz\obj\Debug\net10.0\ref\code.dll
+C:\MAMP\htdocs\code\src\Test14DoWhile\bin\Debug\net10.0\code.exe
+C:\MAMP\htdocs\code\src\Test14DoWhile\bin\Debug\net10.0\code.deps.json
+C:\MAMP\htdocs\code\src\Test14DoWhile\bin\Debug\net10.0\code.runtimeconfig.json
+C:\MAMP\htdocs\code\src\Test14DoWhile\bin\Debug\net10.0\code.dll
+C:\MAMP\htdocs\code\src\Test14DoWhile\bin\Debug\net10.0\code.pdb
+C:\MAMP\htdocs\code\src\Test14DoWhile\obj\Debug\net10.0\code.GeneratedMSBuildEditorConfig.editorconfig
+C:\MAMP\htdocs\code\src\Test14DoWhile\obj\Debug\net10.0\code.AssemblyInfoInputs.cache
+C:\MAMP\htdocs\code\src\Test14DoWhile\obj\Debug\net10.0\code.AssemblyInfo.cs
+C:\MAMP\htdocs\code\src\Test14DoWhile\obj\Debug\net10.0\code.csproj.CoreCompileInputs.cache
+C:\MAMP\htdocs\code\src\Test14DoWhile\obj\Debug\net10.0\code.sourcelink.json
+C:\MAMP\htdocs\code\src\Test14DoWhile\obj\Debug\net10.0\code.dll
+C:\MAMP\htdocs\code\src\Test14DoWhile\obj\Debug\net10.0\refint\code.dll
+C:\MAMP\htdocs\code\src\Test14DoWhile\obj\Debug\net10.0\code.pdb
+C:\MAMP\htdocs\code\src\Test14DoWhile\obj\Debug\net10.0\code.genruntimeconfig.cache
+C:\MAMP\htdocs\code\src\Test14DoWhile\obj\Debug\net10.0\ref\code.dll
+C:\MAMP\htdocs\code\src\Test15GameBattle\obj\Debug\net10.0\code.GeneratedMSBuildEditorConfig.editorconfig
+C:\MAMP\htdocs\code\src\Test15GameBattle\obj\Debug\net10.0\code.AssemblyInfoInputs.cache
+C:\MAMP\htdocs\code\src\Test15GameBattle\obj\Debug\net10.0\code.AssemblyInfo.cs
+C:\MAMP\htdocs\code\src\Test15GameBattle\obj\Debug\net10.0\code.csproj.CoreCompileInputs.cache
+C:\MAMP\htdocs\code\src\Test15GameBattle\obj\Debug\net10.0\code.sourcelink.json
+C:\MAMP\htdocs\code\src\Test15GameBattle\obj\Debug\net10.0\code.dll
+C:\MAMP\htdocs\code\src\Test15GameBattle\obj\Debug\net10.0\refint\code.dll
+C:\MAMP\htdocs\code\src\Test15GameBattle\obj\Debug\net10.0\code.pdb
+C:\MAMP\htdocs\code\src\Test15GameBattle\bin\Debug\net10.0\code.exe
+C:\MAMP\htdocs\code\src\Test15GameBattle\bin\Debug\net10.0\code.deps.json
+C:\MAMP\htdocs\code\src\Test15GameBattle\bin\Debug\net10.0\code.runtimeconfig.json
+C:\MAMP\htdocs\code\src\Test15GameBattle\bin\Debug\net10.0\code.dll
+C:\MAMP\htdocs\code\src\Test15GameBattle\bin\Debug\net10.0\code.pdb
+C:\MAMP\htdocs\code\src\Test15GameBattle\obj\Debug\net10.0\code.genruntimeconfig.cache
+C:\MAMP\htdocs\code\src\Test15GameBattle\obj\Debug\net10.0\ref\code.dll
+C:\MAMP\htdocs\code\src\Test16DoWhileValidate\bin\Debug\net10.0\code.exe
+C:\MAMP\htdocs\code\src\Test16DoWhileValidate\bin\Debug\net10.0\code.deps.json
+C:\MAMP\htdocs\code\src\Test16DoWhileValidate\bin\Debug\net10.0\code.runtimeconfig.json
+C:\MAMP\htdocs\code\src\Test16DoWhileValidate\bin\Debug\net10.0\code.dll
+C:\MAMP\htdocs\code\src\Test16DoWhileValidate\bin\Debug\net10.0\code.pdb
+C:\MAMP\htdocs\code\src\Test16DoWhileValidate\obj\Debug\net10.0\code.GeneratedMSBuildEditorConfig.editorconfig
+C:\MAMP\htdocs\code\src\Test16DoWhileValidate\obj\Debug\net10.0\code.AssemblyInfoInputs.cache
+C:\MAMP\htdocs\code\src\Test16DoWhileValidate\obj\Debug\net10.0\code.AssemblyInfo.cs
+C:\MAMP\htdocs\code\src\Test16DoWhileValidate\obj\Debug\net10.0\code.csproj.CoreCompileInputs.cache
+C:\MAMP\htdocs\code\src\Test16DoWhileValidate\obj\Debug\net10.0\code.sourcelink.json
+C:\MAMP\htdocs\code\src\Test16DoWhileValidate\obj\Debug\net10.0\code.dll
+C:\MAMP\htdocs\code\src\Test16DoWhileValidate\obj\Debug\net10.0\refint\code.dll
+C:\MAMP\htdocs\code\src\Test16DoWhileValidate\obj\Debug\net10.0\code.pdb
+C:\MAMP\htdocs\code\src\Test16DoWhileValidate\obj\Debug\net10.0\code.genruntimeconfig.cache
+C:\MAMP\htdocs\code\src\Test16DoWhileValidate\obj\Debug\net10.0\ref\code.dll
+C:\MAMP\htdocs\code\src\Test20Depurator\bin\Debug\net10.0\code.exe
+C:\MAMP\htdocs\code\src\Test20Depurator\bin\Debug\net10.0\code.deps.json
+C:\MAMP\htdocs\code\src\Test20Depurator\bin\Debug\net10.0\code.runtimeconfig.json
+C:\MAMP\htdocs\code\src\Test20Depurator\bin\Debug\net10.0\code.dll
+C:\MAMP\htdocs\code\src\Test20Depurator\bin\Debug\net10.0\code.pdb
+C:\MAMP\htdocs\code\src\Test20Depurator\obj\Debug\net10.0\code.GeneratedMSBuildEditorConfig.editorconfig
+C:\MAMP\htdocs\code\src\Test20Depurator\obj\Debug\net10.0\code.AssemblyInfoInputs.cache
+C:\MAMP\htdocs\code\src\Test20Depurator\obj\Debug\net10.0\code.AssemblyInfo.cs
+C:\MAMP\htdocs\code\src\Test20Depurator\obj\Debug\net10.0\code.csproj.CoreCompileInputs.cache
+C:\MAMP\htdocs\code\src\Test20Depurator\obj\Debug\net10.0\code.sourcelink.json
+C:\MAMP\htdocs\code\src\Test20Depurator\obj\Debug\net10.0\code.dll
+C:\MAMP\htdocs\code\src\Test20Depurator\obj\Debug\net10.0\refint\code.dll
+C:\MAMP\htdocs\code\src\Test20Depurator\obj\Debug\net10.0\code.pdb
+C:\MAMP\htdocs\code\src\Test20Depurator\obj\Debug\net10.0\code.genruntimeconfig.cache
+C:\MAMP\htdocs\code\src\Test20Depurator\obj\Debug\net10.0\ref\code.dll
